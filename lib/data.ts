@@ -80,14 +80,14 @@ export const projectsData = [
     title: "Dashboard",
     description:
       "This project is a Next.js dashboard app, enriched by Tailwind CSS, where you can effortlessly analyze sales.",
-    tags: ["Next.js", "React.js", "JavaScript", "Tailwind CSS"],
+    tags: ["Next.js", "React", "JavaScript", "Tailwind CSS"],
     imageUrl: dashboardImg,
   },
   {
     title: "Movie App",
     description:
       "My Next.js movie app, crafted with Tailwind CSS, lets you discover popular films.",
-    tags: ["Next.js", "React.js", "JavaScript", "Tailwind CSS", "API"],
+    tags: ["Next.js", "React", "JavaScript", "Tailwind CSS", "API"],
     imageUrl: movieAppImg,
   },
 ] as const;
