@@ -22,7 +22,7 @@ export default function About() {
         After graduating with a degree in{" "}
         <span className="font-medium">Comunication and Multimedia</span>, I pursued my passion for programming by enrolling in a coding 
         bootcamp. During this program, I gained expertise in{" "}
-        <span className="font-medium">PHP and Adobe Magento</span>.{" "}, and I particularly enjoy the problem-solving aspect of programming.
+        <span className="font-medium">PHP and Adobe Magento</span>{" "}, and I particularly enjoy the problem-solving aspect of programming.
          My core stack consists of{" "}
         <span className="font-medium">PHP, Adobe Magento, MySQL</span>, and I'm also proficient 
         in Next.js, Prisma, and MongoDB. I am constantly eager to explore and adopt new technologies.
