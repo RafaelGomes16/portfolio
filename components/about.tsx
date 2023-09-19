@@ -20,21 +20,19 @@ export default function About() {
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
         After graduating with a degree in{" "}
-        <span className="font-medium">Comunication and Multimedia</span>, I
-        decided to pursue my passion for programming. I enrolled in a coding
-        bootcamp and learned{" "}
-        <span className="font-medium">more about PHP and Adobe Magento</span>.{" "}
-        <span className="italic">My favorite part of programming</span> is the
-        problem-solving aspect. My core stack is{" "}
-        <span className="font-medium">PHP, Adobe Magento, MySQL</span>. I am
-        also familiar with Next.js, Prisma and MongoDB. I am always looking to
-        learn new technologies.
+        <span className="font-medium">Comunication and Multimedia</span>, I pursued my passion for programming by enrolling in a coding 
+        bootcamp. During this program, I gained expertise in{" "}
+        <span className="font-medium">PHP and Adobe Magento</span>.{" "}, and I particularly enjoy the problem-solving aspect of programming.
+         My core stack consists of{" "}
+        <span className="font-medium">PHP, Adobe Magento, MySQL</span>, and I'm also proficient 
+        in Next.js, Prisma, and MongoDB. I am constantly eager to explore and adopt new technologies.
       </p>
       <p>
-        <span className="italic">When I'm not coding</span>, I like to spend my
-        time with my friends, watching movies and go for walks. I also enjoy{" "}
-        <span className="font-medium">learning new things</span>. I am currently
-        learning about <span className="font-medium">musical production</span>.
+        <span className="italic">Outside of coding</span>, I like to spend my
+        time with my friends, watching movies and go for walks. I enjoy spending time with friends, watching movies, and going for walks. 
+        I'm an avid learner and am currently delving 
+        into the world of {" "}
+        <span className="font-medium">musical production</span>.
       </p>
     </motion.section>
   );
